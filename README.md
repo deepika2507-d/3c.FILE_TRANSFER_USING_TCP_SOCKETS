@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e0a2a44b-8f42-4b59-9450-0d71aef20d7e)# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -50,8 +50,8 @@ cilent:
 ![image](https://github.com/user-attachments/assets/c9130973-d3cc-4dd2-a99c-e8f3f55df2c4)
 
 server:
+![image](https://github.com/user-attachments/assets/ea5e991b-4d7a-42d6-af32-4da3598c240d)
 
-![image](https://github.com/user-attachments/assets/763228d5-a97c-45dc-b4d9-4759bd1386b6)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
